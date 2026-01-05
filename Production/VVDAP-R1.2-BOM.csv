@@ -1,0 +1,26 @@
+Reference,Qty,Value,DNP,Footprint,Description
+"C1,C2,C3,C4,C5,C6,C7,C11,C12,C17,C19,C20",12,0.1uF,,Capacitor_SMD:C_0603_1608Metric,"Ceramic capacitor, 0603, X7R, min 10V"
+"C8,C9,C10,C15,C16,C18",6,1uF,,Capacitor_SMD:C_0603_1608Metric,"Ceramic capacitor, 0603, X7R, min 10V"
+C13,1,10uF,,Capacitor_SMD:C_0603_1608Metric,"Ceramic capacitor, 0603, X7R, min 10V"
+C14,1,22uF,,Capacitor_SMD:C_1206_3216Metric,"Ceramic capacitor, 1206, X7R, min 10V"
+D1,1,LED-Red,,LED_SMD:LED_0603_1608Metric,"Light emitting diode, 0603, Red"
+D2,1,LED-Green,,LED_SMD:LED_0603_1608Metric,"Light emitting diode, 0603, Green"
+"D3,D4",2,ESD5Z5V0,,Diode_SMD:D_SOD-523,"ESD Protection Diode, SOD-523"
+F1,1,Polyfuse,,Fuse:Fuse_1206_3216Metric,"Resettable PTC fuse, 1A hold, 10V min"
+J1,1,FTSH-105-01-L-DV-K,,locallib:FTSH-105-01-L-DV-K,FTSH-105-01-L-DV-K 1.27mm pitch 2x5 pin connector
+J2,1,USB_C_Receptacle_USB2.0_16P,,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,HRO TYPE-C-31-M-12 USB Type-C Receptacle connector
+"R1,R2",2,10k,,Resistor_SMD:R_0603_1608Metric,"Resistor, 0603"
+"R3,R4,R7,R8,R9,R10",6,1k,,Resistor_SMD:R_0603_1608Metric,"Resistor, 0603"
+"R5,R6",2,5.1k,,Resistor_SMD:R_0603_1608Metric,"Resistor, 0603"
+R11,1,1M,,Resistor_SMD:R_0603_1608Metric,"Resistor, 0603"
+"SW1,SW2",2,SW_Push,,Button_Switch_SMD:SW_SPST_TS-1088-xR020,TS-1088 family 3x4mm pushbuttons
+U1,1,CH32V203F6P6,,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,CH32V203F6P6 Microcontroller
+"U3,U4,U8",3,TPD4E05U06DQA,,Package_SON:USON-10_2.5x1.0mm_P0.5mm,"4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
+"U5,U7",2,SN74LVC1G07DBVR,,Package_TO_SOT_SMD:SOT-23-5,"Single Buffer Gate, Open Drain, Low-Voltage CMOS"
+U6,1,XC6206P332MR,,Package_TO_SOT_SMD:SOT-23-3,"Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"
+"U9,U10",2,SN74LVC1G66DBVR,,Package_TO_SOT_SMD:SOT-23-5,"Single Bilateral Analog Switch, SOT-23-5/SC-70-5"
+U11,1,MIE1W0505,,locallib:MIE1W0505,"Thin 4x5mm isolated DC-DC module with symmetrical pads - MIE1W0505, R05C1TF05S, and equivalents"
+U12,1,ADuM162N1BRZ,,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,ADuM162N1BRZ digital I/O isolator
+U13,1,TPS7B4250,,Package_TO_SOT_SMD:SOT-23-5,TPS7B4250 tracking LDO
+,,,,,
+Total,52,,,,
